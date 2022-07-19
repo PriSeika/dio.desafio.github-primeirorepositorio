@@ -1,0 +1,7 @@
+git config --global user.email "priscilaseika@hotmail.com"
+git config --global user.name "Priscila Santos"
+
+git status
+git add .
+git commit -m "mensagem"
+git push origin main
